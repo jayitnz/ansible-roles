@@ -1,0 +1,4 @@
+---
+# vars file for swap-role-1
+swap_space: 512 
+swap_file: extraswap  
